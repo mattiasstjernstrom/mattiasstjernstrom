@@ -10,7 +10,7 @@ My name is _Mattias Stjernström_, but i also go by the display name [_@mehow_](
 - [x] Learn Flask
 - [x] More advanced: CSS
 - [x] More advanced: HTML5
-- [x] CS50x - Computer Science course at Harvardx [(Certification)](https://courses.edx.org/certificates/a99105bb3b51493b8c6b91e765486f25)
+- [x] CS50x - Computer Science course at Harvardx <sub>[(Certification)](https://courses.edx.org/certificates/a99105bb3b51493b8c6b91e765486f25)</sub>
 - [ ] More Advance Python programming
 - [ ] CS50p - Python Course at Harvardx
 - [ ] CS50w - Web Programming with Python and JavaScript
