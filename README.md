@@ -16,7 +16,7 @@ I am _Mattias Stjernström_, but i also go by the display name [_@mehow_](https:
 - [ ] CS50w - Web Programming with Python and JavaScript
 
 ### Knowlage before 2023 🤙
-- [x] HTML since 2000-ish
+- [x] HTML, made my first personal website 1997, 9 years old
 - [x] CSS
 - [x] Some JavaScript
 
