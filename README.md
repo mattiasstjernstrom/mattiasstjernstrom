@@ -15,7 +15,7 @@ My name is _Mattias Stjernström_, but i also go by the display name [_@mehow_](
 - [ ] CS50p - Python Course at Harvardx
 - [ ] CS50w - Web Programming with Python and JavaScript
 
-### Knowlage before 2023 🤙
+### Knowledge before 2023 🤙
 - [x] HTML <sub><sup> - Made my first personal website 1997, 9 years old</sup></sub>
 - [x] CSS
 - [x] Some JavaScript
