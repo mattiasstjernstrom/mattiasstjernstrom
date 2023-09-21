@@ -1,4 +1,4 @@
-### Hi there 👋
+### Mattias Stjernström, also known as 'Mehow'
 
 <!--
 **mattiasstjernstrom/mattiasstjernstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
