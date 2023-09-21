@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-I am _Mattias Stjernström_, but i also go by the display name _mehow_. I was Born and lives in 🇸🇪 _Sweden_. I am studying learning __Python programming, ML and AI__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_.
+I am _Mattias Stjernström_, but i also go by the display name [_@mehow_](https://mehow.se). I was Born and lives in 🇸🇪 _Sweden_. I am studying learning __Python programming, ML and AI__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_.
 
 ### 2023 Projects 💻
 - [x] Basics: C programming
