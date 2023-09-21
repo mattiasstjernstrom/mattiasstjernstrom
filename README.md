@@ -20,7 +20,7 @@ I am _Mattias Stjernström_, but i also go by the display name [_@mehow_](https:
 - [x] CSS
 - [x] Some JavaScript
 
-### About my journey
-In 2023 i decied to quit my full time job to go full developer mode. I completed [CS50](https://en.wikipedia.org/wiki/CS50) in the spring of 2023, and I got accepted to Teknikhögskolan at [Pythonutvecklare AI](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai), wich can be translated to Python programmer with AI orientation.
+### About my journey 🚀
+In 2023 i decied to quit my full time job to go full developer mode. I completed [CS50](https://en.wikipedia.org/wiki/CS50) in the spring of 2023, and I got accepted to Teknikhögskolan, [Pythonutvecklare AI](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai), wich can be translated to Python programmer with AI orientation.
 
-On my free time i spend my free time to learn about Computer Science and the fundamentals of a various of programming languages. This is just the beginning.
+On my free time i spend my free time to learn about Computer Science and the fundamentals of a various of programming languages. __This is just the beginning of my journey__ 👶
