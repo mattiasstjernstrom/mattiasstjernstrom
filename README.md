@@ -1,4 +1,4 @@
-### Greetings 👋
+## Greetings 👋
 
 I am _Mattias Stjernström_, but i also go by the display name _mehow_. I was Born and lives in 🇸🇪 _Sweden_. I am studying learning __Python programming, ML and AI__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_.
 
@@ -10,7 +10,7 @@ I am _Mattias Stjernström_, but i also go by the display name _mehow_. I was Bo
 - [x] Learn Flask
 - [x] More advanced: CSS
 - [x] More advanced: HTML5
-- [x] CS50x - Computer Science course at Harvardx [Certification](https://courses.edx.org/certificates/a99105bb3b51493b8c6b91e765486f25)
+- [x] CS50x - Computer Science course at Harvardx [(Certification)](https://courses.edx.org/certificates/a99105bb3b51493b8c6b91e765486f25)
 - [ ] More Advance Python programming
 - [ ] CS50p - Python Course at Harvardx
 - [ ] CS50w - Web Programming with Python and JavaScript
