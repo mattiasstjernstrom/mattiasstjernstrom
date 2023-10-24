@@ -8,6 +8,7 @@ My name is _Mattias Stjernström_ ([_@mehow_](https://mehow.se)), I am a 34 year
 - [x] Basics: React
 - [x] Basics: Python programming
 - [x] Learn Flask
+- [x] More advanced: JavaScript
 - [x] More advanced: CSS
 - [x] More advanced: HTML5
 - [x] CS50x - Computer Science course at Harvardx <sup><sub>[(Certification)](https://courses.edx.org/certificates/a99105bb3b51493b8c6b91e765486f25)</sub></sup>
