@@ -1,6 +1,6 @@
 ## Greetings 👋
 
-My name is _Mattias Stjernström_ ([_@mehow_](https://mehow.se)), I am a 35 years old programmer from 🇸🇪 _Sweden_. At the moment i study __Python programming, ML and AI__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_.
+My name is _Mattias Stjernström_ ([_@mehow_](https://mehow.se)), I am a 35 years old programmer from 🇸🇪 _Sweden_. At the moment i study __Python programming, Machine Learning and Artificial Intelligence__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_. Currently also learning Rust at my free time and doing Front End
 
 ### 2024 Projects 💻
 - [x] Learn more about APIs
