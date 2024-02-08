@@ -4,7 +4,8 @@ My name is _Mattias Stjernström_ ([_@mehow_](https://mehow.se)), I am a 35 year
 
 ### 2024 Projects 💻
 - [x] Learn more about APIs
-- [ ] More advanced Javascript
+- [x] Intermediate Javascript
+- [ ] Learn Rust
 - [ ] Machine Learning
 - [ ] Program AI
 
