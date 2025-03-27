@@ -2,12 +2,6 @@
 
 My name is _Mattias Stjernström_ ([_@mehow_](https://mehow.se)), I am a 35 years old programmer from 🇸🇪 _Sweden_. At the moment i study __Python programming, Machine Learning and Artificial Intelligence__ at [Teknikhögskolan](https://teknikhogskolan.se) in _Västerås_, 🇸🇪 _Sweden_. Currently also learning Rust at my free time and doing Front End
 
-### 2024 Projects 💻
-- [x] Learn more about APIs
-- [x] Intermediate Javascript
-- [ ] Learn Rust
-- [ ] Machine Learning
-- [ ] Program AI
 
 ### About My Journey 🚀
 In 2023 i decied to quit my full time job to go full developer mode. I completed [CS50](https://en.wikipedia.org/wiki/CS50) in the spring of 2023, and I got accepted to Teknikhögskolan, [Pythonutvecklare AI](https://teknikhogskolan.se/utbildningar/pythonutvecklare-ai), wich can be translated to Python programmer with AI orientation. In 2023 I've learned ``JavaScript``, some ``C``and alot of ``Python``, in late summer of 2023 i finnished CS50; ``Programming with Python``.
