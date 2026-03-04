@@ -8,11 +8,7 @@
   </a>
 </p>
 
-<p align="center">
-  I am a 37-year-old developer from <b>Sweden 🇸🇪</b>. I recently graduated from the <b>Python Programming, Machine Learning, and AI</b> program at <a href="https://teknikhogskolan.se">Teknikhögskolan</a>. I left my previous career in 2023 to pursue my passion for code.
-  <br />
-  Currently expanding my horizons with <b>Rust</b> 🦀 and modern <b>Frontend Development</b>.
-</p>
+<p align="center">I am a 37-year-old developer from Sweden 🇸🇪. I recently graduated from the  <b>Python Programming, Machine Learning, and AI</b> program at  <a href="https://teknikhogskolan.se">Teknikhögskolan</a>. I am currently employed at <i>Västmanland-Dalarna miljö-& byggförvaltning</i> as a GIS engineer.</p>
 
 <br />
 
